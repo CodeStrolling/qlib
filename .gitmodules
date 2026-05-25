@@ -1,0 +1,3 @@
+[submodule "myquant"]
+	path = myquant
+	url = git@github.com:CodeStrolling/myquant.git

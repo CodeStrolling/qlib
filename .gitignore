@@ -51,3 +51,8 @@ tags
 ./pretrain
 .idea/
 .aider*
+
+# Local study/experiment files
+study/
+myquant/__pycache__/
+myquant/data_engineer/data/
